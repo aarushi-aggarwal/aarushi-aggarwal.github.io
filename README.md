@@ -15,9 +15,13 @@ The primary objective of this project is to analyze consumer behavior related to
 ![Consumer Demographics and Bike Purchase Analysis Dashboard](/Dashboard_E.png)
 
 
-### "Workforce Analytics and Salary Trends: A Comprehensive SQL Analysis"
+### "Patent Landscape: A Geo-Demographic Study of Inventorship and Innovation"
 Objective:
-The project delves into an extensive employee database to uncover key trends and metrics such as gender distribution across departments, average salary evolution, managerial roles, and employee longevity. By utilizing sophisticated SQL queries and data visualization techniques using Tableau, the project aims to provide actionable business insights that aid in informed decision-making regarding human resource management and financial planning.
+The project aims to analyze the global distribution of patent inventors, focusing on gender demographics and patent counts. It seeks to identify patterns in innovation activity by analyzing the locations, gender distribution, and productivity (in terms of patent counts) of inventors worldwide, with a particular emphasis on the United States.
+![Global Distribution of Inventor Patent Activity](/Map_Plot1.png)
+![](/Map_Plot2.png)
+![](/Map_Plot3.png)
+
 
 ## Education
 <br>
