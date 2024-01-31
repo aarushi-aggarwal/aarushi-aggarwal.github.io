@@ -7,13 +7,15 @@ The project delves into an extensive employee database to uncover key trends and
 
 ![Dashboard of Workforce Analytics and Salary Trends](/Dashboard_T.png)
 
+[Tableau Link: https://public.tableau.com/views/AnalysingEmployeesData-SQLandTableau/Dashboard](https://public.tableau.com/views/AnalysingEmployeesData-SQLandTableau/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)  
+
 
 ### "Analyzing Consumer Behavior: Insights from Bike Purchase Trends"
 Objective:
 The primary objective of this project is to analyze consumer behavior related to bike purchases. This involves examining various demographic and socio-economic factors, such as marital status, gender, income, number of children, education level, occupation, home ownership, car ownership, commute distance, region, and age. The goal is to identify patterns and trends that influence the decision to purchase a bike.
 
 ![Consumer Demographics and Bike Purchase Analysis Dashboard](/Dashboard_E.png)
-
+<br>
 
 ### "Patent Landscape: A Geo-Demographic Study of Inventorship and Innovation"
 Objective:
@@ -23,8 +25,7 @@ The project aims to analyze the global distribution of patent inventors, focusin
 
 [GitHub Link: https://github.com/aarushi-aggarwal/inventor-demographics-python.git ](https://github.com/aarushi-aggarwal/inventor-demographics-python.git)
 
-## Education
-<br>
+## Education   
 
 **The London School of Economics and Political Science, UK**     
 **Master of Science in Economics**   
@@ -39,8 +40,7 @@ CGPA- 9.57/10
 
 ---
 
-## Work Experience
-<br>
+## Work Experience    
 
 **Indian School of Business (ISB), Hyderabad**    
 **Research Associate – Corporate Strategy and Innovation**   
