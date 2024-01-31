@@ -20,8 +20,8 @@ Objective:
 The project aims to analyze the global distribution of patent inventors, focusing on gender demographics and patent counts. It seeks to identify patterns in innovation activity by analyzing the locations, gender distribution, and productivity (in terms of patent counts) of inventors worldwide, with a particular emphasis on the United States.
 ![Global Distribution of Inventor Patent Activity](/Map_Plot1.png)
 ![](/Map_Plot2.png)
-![](/Map_Plot3.png)
 
+[GitHub Link:](https://github.com/aarushi-aggarwal/inventor-demographics-python.git)
 
 ## Education
 <br>
