@@ -21,7 +21,7 @@ The project aims to analyze the global distribution of patent inventors, focusin
 ![Global Distribution of Inventor Patent Activity](/Map_Plot1.png)
 ![](/Map_Plot2.png)
 
-[GitHub Link:](https://github.com/aarushi-aggarwal/inventor-demographics-python.git)
+[GitHub Link: https://github.com/aarushi-aggarwal/inventor-demographics-python.git ](https://github.com/aarushi-aggarwal/inventor-demographics-python.git)
 
 ## Education
 <br>
