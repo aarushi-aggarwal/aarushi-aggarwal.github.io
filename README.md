@@ -1,7 +1,12 @@
 # aarushi-aggarwal.github.io
-My personal repository.
+## Data Analyst
+# Projects
+### "Workforce Analytics and Salary Trends: A Comprehensive SQL Analysis"
+Objective:
+The project delves into an extensive employee database to uncover key trends and metrics such as gender distribution across departments, average salary evolution, managerial roles, and employee longevity. By utilizing sophisticated SQL queries and data visualization techniques using Tableau, the project aims to provide actionable business insights that aid in informed decision-making regarding human resource management and financial planning.
 
-# Data Analyst
+Dashboard : /Dashboard_T.png
+
 # Education
 The London School of Economics and Political Science, UK 	Aug 2021 - Jun 2022
 Master of Science in Economics
