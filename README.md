@@ -21,14 +21,15 @@ The project delves into an extensive employee database to uncover key trends and
 
 ## Education
 <br>
-The London School of Economics and Political Science, UK   
-Master of Science in Economics  
+
+**The London School of Economics and Political Science, UK**     
+**Master of Science in Economics**   
 Aug 2021 - Jun 2022
 
-<be>
+<br>
 
-Shri Ram College of Commerce (University of Delhi), India   
-Bachelor of Arts (Honors) Economics   
+**Shri Ram College of Commerce (University of Delhi), India**   
+**Bachelor of Arts (Honors) Economics**   
 Jul 2018 - Jun 2021   
 CGPA- 9.57/10   
 
@@ -37,18 +38,18 @@ CGPA- 9.57/10
 ## Work Experience
 <br>
 
-Indian School of Business (ISB), Hyderabad    	
-Research Associate – Corporate Strategy and Innovation   
+**Indian School of Business (ISB), Hyderabad**    
+**Research Associate – Corporate Strategy and Innovation**   
 Dec 2022 – Oct 2023   
 
 <br>
 
-NITI Aayog, Government of India     
-Research Intern - Development Monitoring and Evaluation Office	    
+**NITI Aayog, Government of India**     
+**Research Intern - Development Monitoring and Evaluation Office**	    
 Jun 2021 – Jul 2021   
 
 <br>
 
-Grant Thornton Bharat LLP, India 	     
-Research and Development Intern – Public Sector	    
+**Grant Thornton Bharat LLP, India** 	     
+**Research and Development Intern – Public Sector**	    
 May 2020 - Jun 2020  
