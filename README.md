@@ -20,6 +20,8 @@ Objective:
 The project delves into an extensive employee database to uncover key trends and metrics such as gender distribution across departments, average salary evolution, managerial roles, and employee longevity. By utilizing sophisticated SQL queries and data visualization techniques using Tableau, the project aims to provide actionable business insights that aid in informed decision-making regarding human resource management and financial planning.
 
 ## Education
+<br>
+
 ##### The London School of Economics and Political Science, UK 	
 ##### Master of Science in Economics
 Aug 2021 - Jun 2022
@@ -34,15 +36,20 @@ Jul 2018 - Jun 2021
 ---
 
 ## Work Experience
-##### Indian School of Business (ISB), Hyderabad 	Dec 2022 – Oct 2023
+<br>
+
+##### Indian School of Business (ISB), Hyderabad 	
 ##### Research Associate – Corporate Strategy and Innovation
+Dec 2022 – Oct 2023
+
+<br>
 
 ##### NITI Aayog, Government of India 
 ##### Research Intern - Development Monitoring and Evaluation Office	
 Jun 2021 – Jul 2021
 
+<br>
+
 ##### Grant Thornton Bharat LLP, India 	
 ##### Research and Development Intern – Public Sector	
 May 2020 - Jun 2020
-
-## Skills
