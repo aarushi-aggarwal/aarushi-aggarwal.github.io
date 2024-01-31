@@ -24,10 +24,14 @@ The project delves into an extensive employee database to uncover key trends and
 ##### Master of Science in Economics
 Aug 2021 - Jun 2022
 
+<br>
+
 ##### Shri Ram College of Commerce (University of Delhi), India 	
 ##### Bachelor of Arts (Honors) Economics
 Jul 2018 - Jun 2021
 ##### CGPA- 9.57/10
+
+---
 
 ## Work Experience
 ##### Indian School of Business (ISB), Hyderabad 	Dec 2022 – Oct 2023
