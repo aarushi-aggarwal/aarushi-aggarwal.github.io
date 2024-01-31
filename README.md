@@ -1,27 +1,32 @@
 # aarushi-aggarwal.github.io
-## Data Analyst
-# Projects
+## Data Analyst - Portfolio
+## Projects
 ### "Workforce Analytics and Salary Trends: A Comprehensive SQL Analysis"
 Objective:
 The project delves into an extensive employee database to uncover key trends and metrics such as gender distribution across departments, average salary evolution, managerial roles, and employee longevity. By utilizing sophisticated SQL queries and data visualization techniques using Tableau, the project aims to provide actionable business insights that aid in informed decision-making regarding human resource management and financial planning.
 
 Dashboard : /Dashboard_T.png
 
-# Education
-The London School of Economics and Political Science, UK 	Aug 2021 - Jun 2022
-Master of Science in Economics
+## Education
+##### The London School of Economics and Political Science, UK 	
+##### Master of Science in Economics
+Aug 2021 - Jun 2022
 
-Shri Ram College of Commerce (University of Delhi), India 	Jul 2018 - Jun 2021
-Bachelor of Arts (Honors) Economics
-CGPA- 9.57/10
+##### Shri Ram College of Commerce (University of Delhi), India 	
+##### Bachelor of Arts (Honors) Economics
+Jul 2018 - Jun 2021
+##### CGPA- 9.57/10
 
-# Work Experience
-Indian School of Business (ISB), Hyderabad 	Dec 2022 – Oct 2023
-Research Associate – Corporate Strategy and Innovation
+## Work Experience
+##### Indian School of Business (ISB), Hyderabad 	Dec 2022 – Oct 2023
+##### Research Associate – Corporate Strategy and Innovation
 
-NITI Aayog, Government of India 
-Research Intern - Development Monitoring and Evaluation Office	Jun 2021 – Jul 2021
+##### NITI Aayog, Government of India 
+##### Research Intern - Development Monitoring and Evaluation Office	
+Jun 2021 – Jul 2021
 
-Grant Thornton Bharat LLP, India 	
-Research and Development Intern – Public Sector	
+##### Grant Thornton Bharat LLP, India 	
+##### Research and Development Intern – Public Sector	
 May 2020 - Jun 2020
+
+## Skills
