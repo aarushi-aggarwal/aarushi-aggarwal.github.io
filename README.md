@@ -7,6 +7,18 @@ The project delves into an extensive employee database to uncover key trends and
 
 ![Dashboard of Workforce Analytics and Salary Trends](/Dashboard_T.png)
 
+
+### "Analyzing Consumer Behavior: Insights from Bike Purchase Trends"
+Objective:
+The primary objective of this project is to analyze consumer behavior related to bike purchases. This involves examining various demographic and socio-economic factors, such as marital status, gender, income, number of children, education level, occupation, home ownership, car ownership, commute distance, region, and age. The goal is to identify patterns and trends that influence the decision to purchase a bike.
+
+![Consumer Demographics and Bike Purchase Analysis Dashboard](/Dashboard_E.png)
+
+
+### "Workforce Analytics and Salary Trends: A Comprehensive SQL Analysis"
+Objective:
+The project delves into an extensive employee database to uncover key trends and metrics such as gender distribution across departments, average salary evolution, managerial roles, and employee longevity. By utilizing sophisticated SQL queries and data visualization techniques using Tableau, the project aims to provide actionable business insights that aid in informed decision-making regarding human resource management and financial planning.
+
 ## Education
 ##### The London School of Economics and Political Science, UK 	
 ##### Master of Science in Economics
